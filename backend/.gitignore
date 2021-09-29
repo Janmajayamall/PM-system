@@ -1,0 +1,7 @@
+tx_history.pkl
+env
+keys.json
+test_files/
+__pycache__
+contracts.json
+generated/

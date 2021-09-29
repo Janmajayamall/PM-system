@@ -1,0 +1,6 @@
+{
+	"fakeUSDContractAddress": "0x844c8a339f59C694A5f3a6C18c32e567fbB3C09F",
+	"l1L2ContractAddress": "0x79e2D8A4Fd4534915a60b7Da99Fe5c79606Da53B",
+	"l2ContractAddress": "0x00b9f7b8fdb5c993f2b09c8d39d7967811da17821a920a6e08e190cfacbbefc7",
+	"starknetCoreContractAddress": "0x5e6229F2D4d977d20A50219E521dE6Dd694d45cc"
+}
